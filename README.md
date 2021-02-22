@@ -1,6 +1,18 @@
 # Ghidora
 An abstract python library for calculating time complex math function.
 
+## How to use it
+- #### Using ``cmd`` :
+  ```
+  pip install Ghidora
+  ```
+- #### Using PyPi.org :
+  ```
+  https://pypi.org/project/Ghidora/
+  ```
+
+
+## Functionalities
 ### Fibonacci
 The Fibonacci Sequence is the series of numbers as 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ... where the next number is found by adding up the two numbers before it
 ```
