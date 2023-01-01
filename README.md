@@ -1,4 +1,11 @@
 # Ghidora
+
+[![Downloads](https://static.pepy.tech/personalized-badge/ghidora?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/ghidora)
+
+Developed by: [**Jay Rank**](https://github.com/RankJay)
+
+## Introduction
+
 An abstract python library for calculating time complex math function.
 
 ## How to use it
